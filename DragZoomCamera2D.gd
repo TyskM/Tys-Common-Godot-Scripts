@@ -4,6 +4,8 @@
 # CAMERA_ZOOMOUT
 # CAMERA_DRAG
 
+# TODO: Add edge scrolling
+
 extends Camera2D
 
 export var zoom_increment = Vector2(1, 1) # How fast the camera zooms in/out
